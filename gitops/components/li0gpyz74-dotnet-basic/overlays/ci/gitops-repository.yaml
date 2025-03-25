@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: li0gpyz74-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/li0gpyz74-dotnet-basic-gitops
